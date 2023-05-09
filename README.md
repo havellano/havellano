@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hadrian! <br/><a href="https://www.linkedin.com/in/hadrian-avellano-103795272/">Computer Information Systmes</a>
+<h1>Hi, I'm Hadrian! <br/><a href="https://www.linkedin.com/in/hadrian-avellano-103795272/">Computer Information Systems</a>
 
 <h2>Education:</h2>
  - Colony High School (2015-2019)
